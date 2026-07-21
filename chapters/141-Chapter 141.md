@@ -1,0 +1,113 @@
+The cultist's blood curdled into steam the moment it struck the frozen ground. Kael pressed his palm against the man's chest, fingers splayed over the still-warm flesh, and pulled.
+[System Notification] Soul Harvest: You extracted 23% spiritual essence from the remains. Memory Fragment acquired.
+The vision hit like a hammer to the skull. Kael staggered back, vision swimming with fragmented images—a cathedral of black stone, chains of light restraining something vast and writhing, seventy-two pillars arranged in a circle around a central pit. The cultist had been young, barely twenty, with ink-stained fingers that suggested a scholar's hands. Those hands now twitched against the frost-hardened earth as their owner drained into nothing.
+"You." The voice came from the alcove ahead. Female, hoarse with smoke inhalation. "You're the one they call the Reaver."
+Kael wiped his palm on his coat. The taste of copper and ozone coated his tongue. "Depends on who's asking."
+A figure emerged from the haze—a woman in the tattered remnants of a Mortician's Guild uniform, one arm hanging at an unnatural angle, blood matting the hair against her skull. She held a serrated blade in her trembling off-hand. Her eyes caught the pale light filtering through cracks in the ceiling above, and Kael noted the silver rings marking her fingers. Guild enforcer. Third-tier sensitivity, barely enough to sense his presence.
+"You're here for the seal." She wasn't asking. "They all are. Every mad bastard with a death wish thinks they can crack it open and steal what's inside."
+Kael studied the tunnel around them. The Underworld stretched beneath Thornwick in layers—ancient catacombs predating the city by centuries, expanded into a labyrinthine network of passages, chambers, and forgotten vaults. The air tasted of sulfur and something older. The cold here wasn't natural; it seeped up from deeper levels like breath from a corpse.
+"What seal?" he asked.
+The woman laughed, a wet and broken sound. "The one that's been holding back the Forty-Third for six hundred years. The one the cultists have been working on for the past decade. The one—" She coughed, flecks of blood spattering her cracked lips. "The one that's going to crack in the next three days unless someone stops them."
+Three days. Kael turned the number over in his mind. The vision from the harvested memory replayed: seventy-two pillars, chains of light, the vast writhing shape. A sealed rift. One of the seventy-two Abyssal Entities that the Orders had bound at the end of the wars.
+"The Six Orders know about this?"
+"The Orders know about all of them." The woman leaned against the tunnel wall, her good arm wrapped around her ribs. "Seventy-two seals, seventy-two Entities, six Orders to maintain them. That's the arrangement that's kept the world standing for half a millennium. But seals weaken. They need tending. They need—" She winced, her face contorting. "They need soul-essence to reinforce them. And the Orders are running out."
+Kael's boots scraped against stone as he approached her. "You're saying the seals are failing."
+"I'm saying the cultists aren't random madmen burning candles to monsters in the dark. They're organized. Funded. They know which seals are weakest, which ones the Orders have neglected. They have schematics, maps, access to Guild archives that should have been destroyed centuries ago." Her eyes met his, and he saw something there beyond pain. Fear. "Someone inside one of the Orders is feeding them information."
+The Shadow Court. Kael didn't voice the name, but it hung in the air between them. The Orders' deniable operations arm, the conspiracy that touched every faction without belonging to any. If what this woman said was true, the corruption wasn't just individual—it was systemic.
+"What's in the seal chamber?" he asked.
+"Artifacts. The original binding instruments from the Abyssal Wars. The Forty-Third itself, locked in a prison of crystallized soul-essence and divine mandate." She swallowed hard. "And the Sepulcher Tablet. The one the first Reaver carved before he disappeared. The one that supposedly contains the True Name."
+Kael's pulse spiked. The Sepulcher tablets—the recorded experiences of the original Soul Reaver, the man who had walked the line between life and death and emerged with power that terrified the Orders. He'd found fragments before, scraps of knowledge that had helped him understand his abilities. But a complete tablet, one containing the True Name?
+"Where?"
+"North passage. Half a mile. The cultists cleared out twenty minutes ago when they triggered the secondary wards." The woman's voice grew weaker. "They're waiting for the seal to weaken enough to breach. Should take three days, like I said. But if you can get there, if you can reach the binding artifacts before they do—"
+She slumped. Kael caught her before she hit the ground, lowering her gently against the stone. Her breathing had gone shallow, her skin waxy and cold. The wound in her side had stopped bleeding—too late, the blood had already pooled beneath her, black in the dim light.
+"Can you walk?" he asked.
+"Can't feel my legs." No panic in her voice. Just the flat acceptance of someone who had made peace with their end. "Spinal damage. I'm done."
+Kael looked down at her. The silver rings on her fingers caught what little light existed. Third-tier sensitivity, she had said. Not Awakened, not like him, but enough to sense the spiritual currents flowing through the Underworld. Enough to have been useful in a fight. Enough to have been left behind when her squad fell.
+"Who ordered your squad down here?"
+She was quiet for a long moment. When she spoke, her voice had dropped to barely a whisper.
+"Doesn't matter now."
+"It matters to me."
+A ghost of a smile crossed her lips. "You remind me of someone. Someone who asked too many questions and trusted the wrong people." Her hand found his wrist, her grip surprisingly strong. "The cultist you harvested. His name was Aldric. Scholar, like me. He joined the Guild three years ago, transferred from a branch office in the eastern provinces. Always asked questions about the old records, the sealed archives. We thought he was just curious." Her fingers tightened. "He wasn't. He was recruitment. One of dozens they planted throughout the city over the past decade. Building a network. Learning which guards could be bought, which officials could be blackmailed, which Awakened could be turned."
+"That's organized," Kael said.
+"That's terrifying." She released his wrist. "The Shadow Court is watching. They've always been watching. But this—this is something else. Someone is consolidating power. Someone with access to ancient knowledge, with patience measured in decades. Someone who knows how the seals work and how to break them."
+The woman's eyes began to glaze. Kael watched the light fade from them, watched the last breath whisper out between her cracked lips. She died without telling him who had ordered her squad into the Underworld. She died without confirming whose hand moved the pieces across the board.
+But she had given him enough.
+Kael stood and moved to the tunnel wall. The stone here was older than the city above, worn smooth by centuries of water seepage and spiritual corrosion. He pressed his palm against the surface and felt the faint thrum of energy flowing through the deeper passages. The seal. He could sense it now, after the harvest, after touching the cultist's memories. A massive reservoir of bound power, held in check by mechanisms he could barely comprehend.
+The Forty-Third Entity. One of seventy-two. One of the reasons the world still existed.
+And someone wanted it free.
+Kael moved north.
+The passage narrowed as he descended, the ceiling pressing lower until he had to duck beneath ancient support beams wrapped in corroded copper wire. The temperature dropped further, his breath misting in thick clouds that hung motionless in the still air. He passed alcoves filled with bones—thousands of them, stacked and sorted by some long-dead caretaker. The Mortician's Guild had maintained these tunnels once, harvesting the dead from the city above, processing remains in vast underground facilities that had been abandoned for centuries.
+But not all the alcoves held bones. One contained a body that was still fresh.
+Kael stopped. The corpse lay crumpled against the far wall, dressed in the black coat and silver insignia of an Order of Dawn enforcer. A holy symbol hung from his neck—the sunburst that marked the Order's highest ranks. This man had been Awakened, stage two at minimum, with enough spiritual power to fuel a small war.
+Kael crouched beside him and placed his palm against the cooling flesh.
+[System Notification] Soul Harvest: You extracted 45% spiritual essence from the remains. Combat Memory acquired.
+The vision exploded through his consciousness. Training sequences. Liturgical chants. A battlefield of shattered stone and screaming figures, an Entity breaking free from chains of golden light. Then: darkness, a whisper in a voice that knew his name, a choice offered and refused, the cold kiss of a blade between his ribs as he knelt in prayer.
+This man had seen the Forty-Third. Had stood at the edge of its prison and looked into the Abyss.
+Kael pulled back, gasping. His hands shook as he processed the fragments. The cultists had not been weakening the seal—they had been testing it. Probing its defenses, mapping its weaknesses, preparing for a final assault that would shatter the binding and drag the Entity into the Material world.
+But something else lived in those memories. A presence that had spoken to the enforcer in his final moments, a voice like wind through a graveyard, promising power, promising answers, promising escape from the slow death that awaited all Awakened who served the Orders.
+The Whisper King. That was the name the cultists used, the figure at the center of their conspiracy. Kael had heard it before—in whispers from harvested souls, in warnings from contacts in the Veiled Market. No one knew who or what the Whisper King truly was. Some said an Entity that had escaped its seal. Others claimed a mortal who had found a way to commune with the Abyss. A few believed it was a collective consciousness, a hive-mind of cultist leaders working in concert.
+But this enforcer's memory held something different. A face. Shadowed, indistinct, but recognizable in the way that faces were recognizable in dreams. A face the enforcer had seen before, decades ago, in a temple that no longer existed.
+Kael filed the image away. Another piece of the puzzle. Another thread leading toward a truth he wasn't ready to face.
+He stood and continued north.
+The tunnel opened into a vast chamber, its ceiling lost in darkness above, its floor a mosaic of interlocking stone tiles that pulsed with faint blue light. Seventy-two pillars rose from the tiles, each one carved with symbols that hurt to look at directly. At the chamber's center, a pit descended into depths that swallowed all light, all sound, all sense of direction.
+The seal.
+Kael approached the pit carefully. The air here vibrated with contained power, so dense that he could taste it on his tongue—copper and lightning and something sweet, like overripe fruit. The binding artifacts the woman had mentioned were visible on the raised platform around the pit's edge: a set of crystal rods arranged in a hexagonal pattern, each one as tall as a man and inscribed with words in languages that predated human civilization.
+The Sepulcher Tablet lay at the platform's center.
+It was smaller than he'd expected—a slab of black stone no larger than a ledger book, its surface covered in script that shifted and flowed like living ink. The first Reaver's record. The True Name, if the legends were true. The key to understanding what Soul Reaving truly was and what it could become.
+Kael climbed the platform and reached for the tablet.
+The moment his fingers touched the stone, the world went white.
+He stood in a field of ash and bone. Above him, the sky burned with colors that had no names, and below, the ground churned with the screams of the damned. Seventy-two pillars rose around him, each one cracked and bleeding light. At the field's center, a figure stood with its back to him—tall, gaunt, wrapped in robes that moved like living shadow.
+"You came." The voice was his own. "I knew you would come."
+Kael's hand went to his blade. "Who are you?"
+The figure turned. The face was his, but older—decades older, carved hollow by hunger and loss, eyes that held the weight of a thousand harvested souls. The first Reaver. The man who had walked this path before him.
+"I am what you will become," the figure said. "If you survive long enough. If you make the choices I made. If you pay the price I paid."
+"What price?"
+The first Reaver smiled, and it was the saddest expression Kael had ever seen. "The price is different for everyone. For me, it was love. For you..." He gestured toward the pillars, toward the bleeding light and the churning sky. "For you, it will be something else. Something you're not ready to lose yet."
+"The True Name. You wrote it here. You recorded everything."
+"I recorded what I understood. The True Name is not a word—it is a truth. A fundamental fact about the relationship between life and death, between the soul and the Abyss. Once you know it, you cannot unknow it. Once you speak it, you cannot unspeak it." The first Reaver stepped closer, and Kael felt the weight of his presence like a physical force. "The cultists want the tablet because they believe the True Name will give them power over the Entities. They are wrong. The True Name does not control death. It acknowledges it. It accepts the exchange that Soul Reaving represents—the taking that enables the giving, the death that sustains life."
+Kael's grip tightened on his blade. "You're saying I can't use this to stop them."
+"I'm saying this artifact is not a weapon." The first Reaver's form began to fade, dissolving into ash and shadow. "It is a mirror. Look into it too long and you will see what you truly are. What you are willing to become. The cultists have been looking into similar mirrors, and they have seen something else. Something that calls itself the Whisper King. Something that was once like us."
+"Like us?"
+The figure was almost gone now, little more than a whisper in the wind. "A Reaver. The first. The one who refused to pay the price."
+The vision shattered. Kael found himself on the platform, the tablet clutched in his hands, his heart pounding against his ribs. The blue light from the pillars had intensified, casting sharp shadows across the chamber floor. Something had changed. Something had been awakened.
+A sound echoed from the tunnel behind him. Footsteps. Dozens of them, moving with the coordination of trained soldiers.
+Kael tucked the tablet into his coat and drew his blade. The cultists had returned. They had found the seal chamber, found him standing at its heart with the artifact that could unravel everything they had worked for.
+He would not get out of this the way he had come.
+The first cultist emerged from the shadows—a man in robes stained with old blood, wielding a curved blade that hummed with stolen spiritual energy. Behind him, a dozen more, their faces hidden behind masks carved to resemble weeping skulls.
+"Kael Ashborn." The lead cultist's voice was flat, devoid of emotion. "The Shadow Court sends their regards. They have been watching you for a long time. They know what you are. What you can become." He raised his blade. "The Whisper King has an offer for you. One that comes with a choice."
+Kael shifted his weight, blade held low and ready. "I'm not interested in offers from cultists."
+"Everyone has a price." The cultist smiled beneath his mask. "Even those who pretend otherwise. The Whisper King knows your debts, Ashborn. He knows who you owe. He knows what you need." The footsteps behind him multiplied—more cultists entering from other passages, surrounding the platform. "Join us, and those debts disappear. Refuse, and you die here, in the dark, beneath a city that will never know what saved it or what destroyed it."
+Seventy-two pillars. Seventy-two seals. Seventy-two chances for the world to end. And somewhere in the shadows, a conspiracy moved pieces that had been in play for decades, waiting for a moment like this.
+Kael smiled. It was not a pleasant expression.
+"I'll take door number three."
+He moved.
+The first cultist fell with a gurgle as Kael's blade opened his throat. The second died reaching for a weapon he would never draw. Kael harvested from the first body as he passed—a flash of combat training, instincts that weren't his own—and used them to anticipate the third cultist's strike. He parried, riposted, and felt the satisfying resistance as his blade sank into flesh.
+[System Notification] Soul Harvest: You extracted 15% spiritual essence from the remains. Basic Blade Technique acquired.
+More cultists poured in from the tunnels. Kael counted twenty, thirty, forty—no, the numbers were wrong, there had to be more, this was too organized, too well-planned. They had known he would come. They had prepared for him.
+A new figure emerged from the shadows at the chamber's far end. Tall, gaunt, draped in robes that moved like living shadow. The same silhouette from the vision, the same presence that had spoken with the first Reaver's voice.
+"Impressive," the figure said. Its voice resonated with harmonics that shouldn't have existed, layers of sound that scraped against Kael's sanity. "You learn quickly. You adapt faster. The Soul Reaver abilities grow stronger with each harvest." It raised a hand, and the cultists froze, their weapons held mid-swing. "I did not lie when I told you I was like you once. I did not lie when I told you I refused to pay the price."
+Kael's blade remained raised. "You're the Whisper King."
+"I am what remains of someone who made a choice. A long time ago, in a place that no longer exists." The figure stepped closer, and Kael saw its face now—young and old at once, beautiful and terrible, features that shifted and flowed like the script on the tablet he still carried. "The original Soul Reaver. The first. The one who learned the True Name and spoke it aloud. The one who became something else when the Abyss answered."
+The words hit Kael like a physical blow. The first Reaver. The one whose ghost had appeared in his vision. The one who had warned him about prices and choices.
+"You're dead," Kael said. "You died six hundred years ago."
+"I died six hundred years ago. I became this shortly after." The Whisper King spread its hands, encompassing the chamber, the pillars, the pit that held the Forty-Third Entity. "The True Name does not grant immortality, Ashborn. It grants transformation. The soul that speaks it accepts the Abyss's terms: eternal service in exchange for eternal existence. I have watched the Orders rise and fall. I have seen seals strengthen and weaken. I have waited, and planned, and gathered those who would listen."
+The cultists began to move again, closing the circle around the platform. Kael calculated angles, distances, the remaining spiritual essence in his reserves. He could take twenty, thirty, maybe forty if he pushed hard enough. But there were more coming. There were always more coming.
+"The unsealing," Kael said. "You're behind it. All of it."
+"I am behind the truth. The Orders have lied for centuries—they told humanity that the Entities could be bound forever, that the seals would hold if only enough sacrifices were made. They knew the seals were failing. They knew the Abyss was leaking through. They chose to hide this truth than share it." The Whisper King's voice grew colder. "The unsealing is not destruction, Ashborn. It is liberation. The Entities are not monsters—they are the original inhabitants of this world, imprisoned by a civilization that feared what it could not control. The cultists who serve me understand this. They have seen what I have seen. They know what I know."
+"And what about the people above? The millions who will die when the seals fail?"
+"Some will die. Many will die. But those who survive will inherit a world without lies, without the hierarchy that places Awakened above the innocent, without the Orders that have fed on humanity's fear for a thousand years." The Whisper King extended a hand toward Kael. "Join me. Take your place as the second Soul Reaver. Together, we can complete what I started. Together, we can tear down the barriers that separate the Material from the Abyss and build something new in their place."
+Kael looked at the offered hand. He thought of Sera, waiting for him in the safehouse above. He thought of the woman's final words, the terror in her voice as she described the conspiracy that had consumed her squad. He thought of the first Reaver's warning, the price that waited for those who spoke the True Name.
+"You're offering me eternity," he said. "In exchange for helping you end the world."
+"I am offering you truth. The only currency that matters."
+Kael raised his blade.
+The Whisper King's expression did not change. "Then you choose death."
+"I choose me."
+He moved—not toward the cultists, but toward the pit. The platform's edge crumbled beneath his boots as he dove into the darkness, the wind screaming past his ears, the blue light of the seal blazing around him like a corona of frozen lightning. He felt the Abyss open beneath him, felt the presence of the Forty-Third Entity rising to meet him, vast and ancient and hungry.
+The Whisper King watched him fall, its shadow-form flickering with something that might have been surprise.
+"You cannot kill what is eternal," the entity called after him. "You cannot escape what you are."
+Kael's hand found the tablet in his coat. The script on its surface blazed with sudden light, responding to his proximity to the Abyss. The first Reaver's words echoed through his mind: the True Name is not a word—it is a truth.
+He understood now. The name was not something spoken. It was something done. A choice made, a price paid, a transformation accepted or refused.
+Kael landed on a ledge of crystallized soul-essence, the tablet clutched to his chest, the Entity's prison stretching out before him in all directions. Above, the Whisper King's shadow stretched across the seal chamber. Below, the Forty-Third Entity stirred in its chains.
+Three days, the woman had said. Three days until the seal broke.
+Kael had three days to find another way.
+The question was whether he would survive long enough to try.

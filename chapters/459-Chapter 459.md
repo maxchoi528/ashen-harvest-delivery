@@ -1,0 +1,156 @@
+The door to the throne room exploded inward, splinters scattering across stone floors older than the city above. Kael Ashborn stepped through the destruction without slowing, his boots grinding broken wood into the dust of centuries.
+"You sent them to kill me." His voice carried no accusation, only the flat certainty of a man who had already decided the answer. "Forty-three cultists. Three Awakened. All chanting your name."
+A throne sat at the room's center, obsidian and bone fused into something that hurt to perceive directly. Behind it, candlelight flickered against walls covered in shifting shadows, and the shadows spoke.
+"Forty-three was the minimum viable assault force for psychological impact." The Whisper King's voice emerged from everywhere and nowhere, the words pressing against Kael's eardrums like cold fingers. "The Awakened were expendable. The commoners were cannon fodder designed to force you into a response pattern."
+"A response pattern." Kael's laugh held no humor. "You engineered my emotional state through massacre."
+"I engineered a scenario that would bring you here, to this room, at this precise moment." The shadows behind the throne coalesced, forming something almost human-shaped but wrong in its proportions. "Do you understand why you survived, Soul Reaver? Why those cultists fell before you like wheat before a scythe?"
+Kael's hand rested on the hilt of a blade he hadn't drawn yet. "Enlighten me."
+"Because I needed you to be angry." The voice dropped to a whisper that filled the entire chamber. "Anger is the only emotion strong enough to override a Soul Reaver's natural caution. You should have waited. Gathered more information. Prepared contingencies. Instead, you burned through my fodder and came hunting for the source."
+"Flattery won't save you."
+"Truth will." The shadows shifted again, and this time they formed words across the walls—hundreds of names, dates, locations. "Two hundred years ago, I began preparing for this moment. Every cultist recruited. Every seal weakened according to schedule. Every Order response anticipated and channeled into productive directions."
+Kael's eyes tracked the information scrolling across obsidian surfaces. Names he recognized—Order champions who had died on missions that now seemed perfectly designed to fail. Locations that had suffered catastrophic breaches at times that aligned too neatly with political convenient.
+"The Great Rift resurgence is not a crisis." The Whisper King's voice hardened with something approaching satisfaction. "It is a controlled demolition. The seal network has served its purpose for two millennia, but the Orders have grown complacent, corrupt, bloated with power they do not deserve. The rifts must open wider to force transformation."
+"Transformation." Kael tasted the word like poison. "You're talking about letting Abyssal Entities through."
+"I'm talking about evolution. The Entities are not demons, Soul Reaver. They are the native inhabitants of a realm the Orders have kept humanity ignorant of. The Sun God, the Blood God, the Green Mother—all Entities who chose alliance with humanity over domination. The current seal network locks us all in stagnation."
+"And your two-hundred-year plan?"
+The shadows laughed—a sound like bones rattling in a crypt. "That, you are not ready to know."
+Kael's hand tightened on his blade. "You dragged me here to tell me you have a plan but won't explain it?"
+"I dragged you here to offer you a choice." The throne rotated, and for the first time, Kael saw the speaker—a figure wrapped in so many layers of black cloth that no skin was visible, face hidden behind a mask of polished obsidian that reflected nothing. "Join me, and learn the truth. Refuse, and become an obstacle that will be removed."
+"Removed." Kael finally drew his blade, the metal singing with spiritual energy that made the candle flames bend away. "You sent forty-three cultists. What will it take to remove a Divine stage Reaver?"
+"Not what." The Whisper King rose from the throne, robes pooling around him like liquid darkness. "Who. The Faceless One has been watching you since your Awakening, Soul Reaver. It finds your existence... Fascinating. And it has offered me a bargain."
+The temperature in the chamber plummeted. Frost crept across the walls, and Kael felt his spiritual senses scream warnings he had never experienced before—the presence of something vast pressing against the membrane of reality, waiting for permission to enter.
+"The Faceless One will tear this world apart to get what it wants from you." The Whisper King's masked face tilted, and Kael knew he was being smiled at. "But I have convinced it that cooperation yields better results than conquest. You have one hour to decide. After that, the Entity makes its own arrangements."
+The shadows began to retreat into the walls, taking the information with them. Kael lunged forward, blade slashing through darkness, but his steel passed through nothing. The Whisper King had already vanished, leaving only empty robes settling to the floor like shed skin.
+"One hour." Kael's voice echoed in the chamber. "One hour to decide whether to trust the monster who tried to kill me, or the monster who wants to own me."
+He turned toward the shattered doorway, then stopped. Against the far wall, barely visible in the dying candlelight, words burned into the stone in characters that hurt to read:
+SHE REMEMBERS WHAT YOU FORGOT. THE SECOND REAVER LIVES IN YOUR SHADOW. TWELVE HOURS AFTER DAWN, YOU WILL MEET HER IN THE PLACE WHERE THE FIRST SEAL FAILED.
+Kael's blood ran cold. The Second Soul Reaver—a contradiction he had dismissed as impossible. Soul Reaver lineage enforced singularity. Only one could exist at a time. The system itself prevented duplicates.
+Yet here was proof. Written in a hand he didn't recognize, using knowledge no living being should possess.
+He reached out and touched the burned words, and the stone crumbled to ash beneath his fingers. Whatever message had been hidden there, it was gone now. Only the warning remained, and the promise of a meeting twelve hours after dawn in a place where the first seal had failed.
+The first seal—the one that had started the Abyssal Wars two thousand years ago. The seal that had never truly been repaired, only patched with prayers and blood.
+Kael walked out of the throne room, past the bodies of cultists he had killed hours earlier, past the steam-powered mechanisms that powered Shadowmere Asylum's defenses, past the wards that should have stopped him but hadn't because the Whisper King had wanted him to reach this room.
+Outside, Thornwick's gaslit streets churned with evening crowds, merchants hawking their wares, workers trudging home from factories that ran day and night to feed the war machine. None of them knew that the man walking through their midst carried a blade that could harvest souls and a secret that could end the world.
+A child darted past Kael's legs, chasing a mechanical toy that clicked and whirred across cobblestones. The boy collided with Kael's thigh, bounced off, and kept running without looking back. Kael watched him go, noting the way the crowd parted around the child like water around a stone.
+Normal people lived their normal lives, untouched by the war between Orders and Entities, unaware that their reality was held together by seals that were failing faster than anyone admitted. They would never know how close they had come to destruction today, or how close they would come tomorrow.
+"Mr. Ashborn." The voice came from an alley mouth, feminine and careful. Kael turned to see a woman in the gray uniform of the Order of Dawn's intelligence division, her spiritual signature carefully muted but present. "Commander Vane requests your presence at the Citadel. Immediately."
+"Does she." Kael didn't phrase it as a question. "Or did the Whisper King arrange this meeting too?"
+The woman's composure flickered—barely perceptible, but Kael had spent months learning to read the tells of people who thought they were hiding things. "Sir?"
+"Never mind." He fell into step beside her, letting her lead through streets that grew cleaner and better lit as they approached the district where the Orders maintained their public facades. "Tell me something, operative. The Order of Dawn. How many of your champions know about the seal degradation schedule?"
+She walked faster, not running. "I wouldn't know, sir."
+"You'd know. You're intelligence division. You know everything." Kael matched her pace easily, his longer stride eating distance without effort. "The question is whether you'll tell me."
+"I can't discuss sealed operations with—"
+"I'm not asking about sealed operations. I'm asking about basic geology." His voice stayed conversational, almost friendly. "Seals degrade over time. That's physics. Spiritual constructs age like everything else. So someone, somewhere, calculated when the current seal network would become unsustainable. And that someone chose to keep that information from the people most likely to die when the seals finally fail."
+The woman stopped walking. They had reached a corner where gaslight met shadow, where the respectable district gave way to the quarters where Order agents conducted business they didn't want witnesses to see. She turned to face Kael, and in the flickering light, he could see the fear she was trying to hide.
+"Commander Vane told me you were perceptive." Her voice dropped to barely above a whisper. "She didn't mention you were dangerous."
+"I'm only dangerous to people who deserve it." Kael held her gaze without blinking. "Do you deserve it, operative?"
+"No." The word came out shaky. "We're trying to help. Some of us. Vane. Myself. Others who still remember what the Orders were supposed to be before they became... This."
+"Before they became what?"
+" bureaucracies. Political machines. Organizations more interested in maintaining power than protecting people." She glanced around, checking for listeners. "The Whisper King isn't wrong about everything. The Orders are corrupt. The Concordat is a joke. The seal network is failing faster than the Council admits. But his solution—letting Entities through to 'evolve' humanity—that's genocide wearing a philosopher's robes."
+"And your solution?"
+"Find another way." She started walking again, faster now. "Vane thinks you might be that way. She thinks a Soul Reaver who harvests the dead but doesn't kill the living might be able to do something the Orders can't. Harvest the Entities themselves. Drain their power to repair the seals without letting them through."
+Kael considered this as they walked. The Citadel loomed ahead, its towers scraping the evening clouds, its walls inscribed with wards that had protected Thornwick for eight hundred years. Inside, Commander Vane waited with whatever information she thought would convince a Divine-stage Soul Reaver to join her cause.
+Or to betray it.
+"Operative." Kael spoke without looking at her. "What's your name?"
+"Elena." She seemed surprised to be asked. "Elena Marsh."
+"Elena. When this is over—whatever 'over' means—remember that I gave you the chance to walk away."
+"Walk away from what?"
+Kael didn't answer. The Citadel gates loomed before them, wards humming with power that pressed against his spiritual senses like a headache building behind his eyes. Guards in Dawn silver recognized Elena and waved them through without checking Kael's credentials.
+Inside, the Citadel smelled of incense and old paper, of power conserved and secrets kept. Elena led him through corridors where portraits of ancient champions watched with painted eyes, down stairs that spiraled deeper than the building should have allowed, into chambers that existed in spaces the architecture didn't cover.
+Commander Vane waited in a room lined with maps—maps of seal networks, rift locations, ley line flows, and the shadows where Abyssal influence spread like infection through the world's spiritual infrastructure. She stood with her back to the door, studying a particular map that showed Thornwick's position relative to the largest of the seventy-two sealed rifts.
+"Close the door, Elena." Vane didn't turn around. "And seal it. What we discuss next cannot leave this room."
+Elena obeyed, and Kael felt the wards activate—privacy screens that would muffle sound and block casual scrying. When the magic settled, Vane finally turned to face him.
+The woman who had once been his handler looked older than their last meeting, gray threading through hair she had always kept immaculately styled, lines carved deeper around eyes that had seen too many subordinates die for causes that turned out to be lies. She wore no armor, no ceremonial trappings of rank—just a simple gray coat and the silver pin of the Order of Dawn.
+"You met him." Not a question. "The Whisper King."
+"I met his shadows." Kael remained standing, making no move to sit in the chairs arranged around the map table. "He tells me I have one hour to decide whether to join his revolution or become its first casualty."
+"And what did you tell him?"
+"I told him I needed more information before making promises."
+Vane's mouth twitched—not a smile. "That's more restraint than I expected from you, Ashborn. The reports suggested you'd become reckless since your advancement."
+"Reports." Kael let the word hang. "Who writes reports about a Soul Reaver's behavior patterns?"
+"The Shadow Court. The other Orders. The Veiled Market. Anyone with investment in spiritual commodities or political stability." She moved to the map table, her fingers tracing seal locations with practiced familiarity. "You've become significant, Kael. A Divine-stage Soul Reaver is not something the world has seen in centuries. The last one nearly ended the Abyssal Wars by himself before the Orders killed him to preserve their monopoly on Entity-adjacent power."
+"They killed their own weapon."
+"They killed a threat to their authority. There's a difference, though the end result looks the same from the grave." Vane tapped a location on the map—a point far to the north, beyond Thornwick's territory, where mountain ranges carved scars into the continent. "The First Seal. The one that failed two thousand years ago and started everything. It was never repaired. Only contained."
+"I know. The Whisper King left me a message. I'm supposed to meet someone there. Twelve hours after dawn."
+Vane's composure cracked. She looked up from the map, and Kael saw genuine alarm in her expression. "He told you about the Second Reaver?"
+"He didn't tell me. He wrote it on his wall like graffiti and vanished before I could ask questions." Kael stepped closer to the map, studying the northern territory. "What do you know about the Second Soul Reaver?"
+"Less than I should. More than most." Vane pulled a document from beneath the map—a report so old that the paper had yellowed to the color of weak tea. "Two hundred years ago, a woman named Sera Blackwood Awakened with Soul Reaver abilities. She was hunted within a week of her first harvest. The Orders couldn't allow a second active lineage, so they sent seven champions to kill her."
+"Seven champions against one Reaver. Generous odds."
+"She won." Vane's voice stayed flat. "Killed all seven, harvested their abilities, and disappeared into the northern wastes. She was never seen again. The Orders officially declared her dead from wounds sustained in the engagement, but I have reason to believe she survived."
+Kael absorbed this. A second Reaver, active two centuries ago, presumed dead but possibly alive. A message left by someone who knew things about him that he didn't know about himself. And a meeting place that happened to be the location of the original seal failure.
+"The Whisper King mentioned the Faceless One." Kael watched Vane's face as he spoke. "He said the Entity wants something from me."
+"The Faceless One wants what all Entities want—to breach the Veil and enter the Material fully. But it has a particular interest in Soul Reavers. Something about the nature of your ability disturbs it." Vane set down the ancient report. "The Whisper King claims to have negotiated a truce between the Entity and himself, using you as the bargaining chip."
+"A bargaining chip." Kael felt ice forming in his chest. "I'm worth an Entity-level negotiation?"
+"You're worth the entire seal network to anyone who understands what a Soul Reaver can do." Vane met his gaze directly. "You've been harvesting corpses, Kael. Skills and abilities from the dead. But that's only the surface. The deepest Reavers—Sera Blackwood, the First Reaver whose name has been erased from history—they discovered that souls don't just contain skills. They contain memories. Knowledge. The accumulated experience of everyone who ever lived and died."
+"And?"
+"And the seventy-two Entities have been trapped in the Abyss for two millennia. Each one has harvested countless souls from the dying world, stored their knowledge, their power, their memories. A Soul Reaver who could harvest an Entity..." Vane let the implication hang. "You wouldn't just gain abilities. You'd gain the sum total of everything an Entity has stolen."
+Kael stared at the map, at the seals marked in spiritual ink, at the places where reality had been stitched together by desperate people two thousand years ago. The Whisper King's offer crystallized into something clearer.
+"He doesn't want me to join him. He wants me to become a weapon against the Entities. A tool to break the seals from the inside."
+"Possibly. Or he's lying, and his true plan is something else entirely." Vane pulled another document from beneath the map—this one newer, covered in symbols Kael recognized as Shadow Court cipher. "I've intercepted communications between Whisper King agents and cult leadership. They're not just weakening seals randomly. They're creating specific access points, routes through the seal network that would allow certain Entities through while keeping others contained."
+"Selective breach."
+"Exactly. And the Entity they've chosen to prioritize? The one they're preparing a welcoming committee for?" Vane pointed to a seal location in the map's center—the one closest to Thornwick, the one whose degradation had been accelerated most dramatically. "The Faceless One. The same Entity that wants you."
+Kael's hand found his blade hilt, fingers tightening around leather-wrapped steel. The Faceless One had fragments of itself planted in three individuals. One of them was him. The other two remained unknown, festering wounds in the world's spiritual infrastructure that he couldn't see or reach.
+"If I meet Sera Blackwood at the First Seal," he said slowly, "what are the chances it's a trap?"
+"High. But traps can be inverted." Vane's voice hardened with something that might have been hope or might have been desperation. "If there's really a second active Soul Reaver, she might have information you need. The Faceless One's weaknesses. The location of the other two fragments. The truth about what the Whisper King is really planning."
+"And if she's working with him?"
+"Then you'll have to make a choice about which monster to kill first."
+Kael looked at the map again, at the northern wastes where the original seal had failed, where Sera Blackwood might be waiting with answers he desperately needed. Twelve hours after dawn. Less than a day to travel there, to determine whether he was walking into salvation or slaughter.
+"The Shadow Court," he said finally. "You've been monitoring me through them."
+Vane didn't deny it. "The Court serves whoever pays best, and several parties have investment in your survival. The Orders. The Veiled Market. Factions within factions that believe a free Reaver is more useful than a contained one. They report to me because I'm the one trying to keep you alive long enough to matter."
+"And the information about my fragments? The Faceless One's pieces?"
+"Still locating. The Court has agents in three of the five other Orders, but the Faceless One is... Careful. It buries itself deep." Vane folded her arms, studying him with the assessing gaze of someone who had sent many people to their deaths and learned from each one. "You could harvest me. Take my memories, my knowledge. Have the information you need in seconds."
+"I could." Kael's voice stayed neutral. "Should I?"
+"Only if you trust me less than you trust your deadline." She gestured at the map. "I have decades of experience with seal networks, Entity behavior, Order politics. A harvest would give you access to all of it, but it would also kill me. Commander of the Order of Dawn, intelligence division specialist, twenty-three years of service—gone in a heartbeat because you needed shortcuts."
+"And if I wait? Trust you?"
+"Then we work together. I give you what I know freely, and you make your own decisions about how to use it." Vane's expression flickered with something that might have been respect. "I know which option the Whisper King would prefer. He'd love for you to start harvesting Order commanders—create enemies that would unite all six factions against you. It's exactly the kind of chaos that serves his agenda."
+Kael turned away from the map, pacing the small chamber with its ancient walls and newer wards. The clock on Vane's desk showed the hour slipping away. Dawn would come in approximately six hours. Twelve hours after that, he was supposed to meet a ghost in a place where the world had first broken.
+"The Orders," he said finally. "You mentioned they're corrupt. Tell me about the Six Orders and their role in fighting the Abyss."
+Vane's eyebrows rose slightly. "You don't know?"
+"I've been busy being executed, resurrected, and hunted across three territories. Education fell by the wayside." He stopped pacing, facing her. "I know there are six. I know they maintain the seal network. Tell me what else."
+She settled into one of the chairs, and after a moment, Kael took the one across from her. The map table between them became a battlefield of ink and implication.
+"The Six Orders were founded during the Abyssal Wars, each representing a different approach to fighting Entities and maintaining seals. The Order of Dawn focuses on light-based sealing techniques and political unity. The Iron Vanguard specializes in defensive fortifications and direct combat. The Arcane Spire researches theoretical spiritual mechanics and develops new sealing methodologies. The Verdant Circle works with natural ley lines and environmental restoration. The Silent Monks preserve historical knowledge and train specialists in Entity recognition. And the Shadow Court handles... Deniable operations."
+"Assassinations. Sabotage. Things the other Orders can't be seen doing."
+"Precisely. For two thousand years, they've maintained an uneasy balance. The Concordat keeps them from destroying each other while focusing on the real threat. But the Concordat assumes all six Orders share the same goal—keeping the Veil intact and the Entities contained."
+"And you don't believe that anymore."
+"I believe the goal has diverged." Vane traced the boundary lines on the map where Order territories met and overlapped. "Some factions want to maintain the status quo forever, regardless of cost. Others want controlled release of specific Entities in exchange for power-sharing arrangements. A few believe the seal network should be dismantled entirely, letting humanity evolve or perish on its own terms. And then there's the Whisper King's school of thought—that the Entities deserve to reclaim this world and humanity should learn to serve than resist."
+"Charming options." Kael studied the territories, noting which ones bordered the major rift locations. "Where do you fall?"
+"I fall where I've always fallen. The seals must hold, but they must also be sustainable. We can't maintain emergency measures forever. At some point, someone needs to find a permanent solution." She met his gaze. "I think you might be that someone, Ashborn. A Soul Reaver who can harvest Entities without becoming one. Who can take their power and use it to repair what they've broken."
+"High expectations for a death-row prisoner."
+"High expectations for a Divine-stage Reaver who's killed more cultists in six months than most champions kill in a decade." Vane's mouth curved slightly. "You're not what I expected when I took your case. But you're what the world needs, whether you want the responsibility or not."
+Kael stood, moving back to the map. Dawn crept closer with every heartbeat. In a few hours, he would leave Thornwick and travel north, toward the place where everything had first gone wrong. He would either find Sera Blackwood and learn secrets that might save the world or walk into a trap that would end him.
+"The other fragments," he said without turning around. "The Faceless One's pieces, buried in other people. How close are you to finding them?"
+"Days. Maybe a week. The Court's best trackers are working the problem, but the Entity has had millennia to learn how to hide. Its fragments don't register on normal spiritual senses. You'd need someone specifically attuned to detecting Abyssal corruption."
+"Or another Soul Reaver."
+"Exactly." Vane stood as well, moving to a cabinet against the wall. She retrieved a small case and set it on the table between them. "Which brings us to practical matters. You're traveling north alone. You'll need supplies, currency, and information."
+The case contained soul-essence vials—six of them, each glowing with contained power that made Kael's Reaver senses hum. At current market rates, that was six hundred gold sovereigns. Enough to fund a small army or buy a noble's silence permanently.
+"The Order is funding me?"
+"The Order doesn't know I'm funding you. Consider it an investment in continued existence." Vane closed the case and slid it across the table. "The Whisper King will have agents watching the northern routes. Cultists believe in their cause, but belief doesn't stop a blade through the throat. Stay alert, stay mobile, and don't trust anyone who approaches you without visible weapons."
+"Including Sera Blackwood?"
+"Especially Sera Blackwood. If she's survived two centuries as an active Reaver, she's not someone who got there by being gentle." Vane opened the chamber door, letting the wards dissolve. "Elena will escort you out. There's a safehouse near the eastern gate where you can rest before dawn. After that, you're on your own."
+Kael picked up the case, feeling the weight of power contained in glass and metal. Six vials. Six hundred gold's worth of spiritual currency that could fuel his abilities, purchase information, or bribe guards at borders he needed to cross.
+"Commander." He paused at the threshold. "The Whisper King's plan. The two-hundred-year strategy. What do you think it is?"
+Vane's expression tightened. "I think he wants to break the seal network in a specific sequence, controlled enough that only his chosen Entities breach the Veil. I think he's been cultivating cultists and moles in every Order to ensure the right seals fail at the right times. And I think you, Kael Ashborn, are either the key to his success or the key to his failure."
+"No middle ground."
+"There never is. Not with people like him." She turned back to her maps, dismissing him. "Go. You have a long road ahead and a ghost to meet."
+Kael walked through the Citadel's corridors, past portraits of champions who had died keeping the world safe from what lurked beyond the Veil. Elena waited at the gate, her face carefully neutral as he passed.
+The streets of Thornwick churned with night traffic, workers changing shifts, taverns spilling light and noise into the darkness. Kael moved through the crowds like a predator among prey, his Divine-stage senses tracking a dozen spiritual signatures that couldn't perceive.
+The Whisper King's agents. Shadow Court observers. Order watchers who reported to commanders he hadn't met yet. And something else—something that felt like cold fingers trailing across his soul, patient and waiting.
+The Faceless One's fragment, buried in his spirit, reminding him with every step that he was never truly alone.
+Six hours until dawn. Twelve hours until the meeting. And somewhere in the northern wastes, a woman who might have been dead for two centuries prepared to share secrets that could change everything.
+Kael found the safehouse—a crumbling building near the eastern gate that had once been a temple to a god no one remembered anymore. Inside, dust covered altars to forgotten powers, and rats scattered at his approach.
+He set the case of soul-essence on what remained of the altar, then sat down on cold stone. His blade lay across his knees, oiled and ready. The hours stretched ahead like a dark corridor with no end in sight.
+Sleep wouldn't come. It never did, when he was this close to answers.
+Instead, Kael closed his eyes and reached inward, toward the place where the Faceless One's fragment hid. He had never tried to harvest his own corruption before—had never considered that such a thing might be possible. But if Sera Blackwood had survived two centuries as a Reaver, she must have learned techniques he hadn't discovered yet.
+Techniques the Whisper King didn't want him to know.
+The fragment stirred at his approach, cold and alien and patient. It had been waiting inside him for months, growing stronger, watching everything he did with eyes he couldn't see.
+Not much longer now, he told it silently. Soon you'll have to choose whose side you're on.
+The fragment offered no response. It never did. But Kael felt its attention sharpen, felt it pressing against the edges of his consciousness like something testing walls it intended to breach.
+Outside, the city's mechanical heartbeat continued. Steam engines roared. Factory whistles screamed. Somewhere in the darkness, cultists were chanting and agents were reporting and the seal network was weakening one strand at a time.
+Kael opened his eyes and watched the eastern sky begin to pale.
+The hunt was over. The gathering was about to begin.
+And in the place where the first seal had failed, answers waited alongside dangers he couldn't yet imagine.
+His hand found the case of soul-essence, fingers tracing the glass through leather. Six hundred gold's worth of power. Enough to buy loyalty, information, or a quick death if things went wrong.
+Enough to change the world, if he used it right.
+Dawn broke over Thornwick, painting the gaslit streets in shades of amber and rose. Kael stood, sheathed his blade, and walked out of the safehouse toward the eastern gate.
+North lay ahead. The meeting place waited. And somewhere in the space between his heartbeats, the fragment of the Faceless One whispered promises of power and pain.
+Kael didn't answer. He just kept walking, one foot in front of the other, until the city fell away behind him and the road stretched empty toward mountains that scratched the belly of the sky.
+Five hours to the meeting. Five hours to decide whether he was hunting a ghost or becoming one.
+The sun climbed higher, indifferent to the choices mortals made in its light.

@@ -1,0 +1,109 @@
+The night air tasted of coal smoke and copper. Kael crouched on the warehouse roof, grit biting through the worn leather of his gloves as he balanced on the moss-slicked tiles. Damp seeped through the fabric at his knees. Below, three figures emerged from the fog-choked alley, their boots scraping against wet cobblestones. Their robes bore no insignia, but the way they moved—coordinated, silent, bodies coiled with spiritual pressure—betrayed them as cultists. The fog swallowed their footfalls, but Kael tracked them by the faint distortion in the ambient aether, a prickling heat against his skin.
+"In position," Mira's voice crackled through the speaking stone pressed to his ear. The stone vibrated, warm against his palm. "North approach locked."
+"Corvin, you're late."
+"Approaching from the drainage tunnels. Found something." A pause heavy with implication. "Bodies. Six Order enforcers, killed within the hour."
+Kael's jaw tightened. The muscles in his neck corded. The Order of Dawn had deployed a covert team to surveil the same warehouse district. Either the cultists had discovered them, or something far more dangerous was unfolding. His fingers curled into fists. He signaled his own team—two Awakened mercenaries who'd accepted coin for tonight's work—to hold position. They melted into the rooftop shadows.
+The cultists entered the building. A dim light flickered in the second-floor window, casting long amber scratches across the fog. The smell of burning tallow drifted up.
+"We move on my mark." Kael dropped from the roof, landing in a crouch on the cobblestones. The impact jarred through his ankles, teeth clicking together. The Mistwalkers had chosen this district for their base of operations because the steam-works nearby generated enough ambient interference to mask spiritual signatures. Standard reconnaissance protocols wouldn't detect anything unusual. The hiss of pressurized steam from nearby pipes filled the air with white vapor and the stench of iron and machine oil.
+Which meant he'd have to get close.
+The warehouse door hung slightly ajar. Kael pressed against the exterior wall, feeling the vibrations through the brick. Voices inside, too muffled to parse. The mortar between the bricks crumbled under his shoulder. He moved to the window, peering through a crack in the boards. Splinters pressed into his cheekbone. The air tasted of mold and old decay.
+Six cultists surrounded a table. On it lay a map of Thornwick's eastern district, bristling with pins. One figure—taller than the others, shoulders hunched like a predator—traced a finger along what appeared to be the seal network's secondary conduit line.
+"They're mapping the infrastructure," Kael breathed. The realization tightened his chest. "Mira, Corvin—get ready. We take them alive if possible."
+The tall cultist stopped moving. His head turned toward the window, and Kael glimpsed eyes that held no whites—only swirling black depths. Kael's stomach dropped. His breath caught.
+"Someone breaches the perimeter," the cultist said. His voice carried the harmonic distortion of someone speaking through spiritual resonance than air. The words vibrated in Kael's molars. "The Reaver. I taste his hunger."
+Kael didn't hesitate. He shattered the window with his elbow, glass biting through his sleeve, and threw himself through, drawing his blade mid-flight. The frame splintered around him. The nearest cultist raised an arm, spiritual energy crackling along her fingers, arcs of pale light hissing in the damp air—
+Kael's sword took her through the throat before she could complete the gesture. Steel ground against vertebrae. Blood spray splashed across the map, dark and steaming.
+The tall cultist snarled, lunging forward with a speed that belied his hunched frame. Kael met the charge, steel screaming against a conjured blade of condensed spiritual force. The impact shuddered through his wrist bones. The air stank of ozone.
+"The Reaver thinks himself hunter." The cultist's blade locked against Kael's, close enough that breath mingled. Kael smelled incense and rot. "He is prey. The Faceless One marked him long ago."
+The other four cultists scattered, taking positions to flank. Mira crashed through the door behind Kael, her war-hammer swinging in a wide arc that caught two cultists in the chest cavity, caving ribs inward. The wet crunch echoed. Corvin emerged from shadows at the room's edge, twin daggers finding kidneys and throats with mechanical precision. The bodies dropped in sequence, twitching.
+But the tall cultist pushed back harder, his spiritual pressure spiking until Kael's bones ached. Stage Four, maybe Stage Five. An Archon among the faithful.
+"Impressive," the cultist hissed. "The stolen power serves you well. But you know nothing of what you carry."
+Kael twisted, disengaging from the lock. His boots slid on blood-slicked wood. "Enlighten me."
+"The Soul Reaver was never meant to be wielded by one man. It is a key. The seal network was built to contain the Abyss, yes—but also to imprison what sleeps within. The original Reaver understood this. He sealed himself away than face what he had become."
+Kael's blade arced toward the cultist's head. The man ducked, surprisingly agile, and struck Kael's solar plexus with an open palm. Spiritual force exploded through Kael's body, sending him staggering backward into a support beam. His spine cracked against the wood. The breath punched from his lungs. Stars burst across his vision.
+"But you," the cultist continued, circling, his footsteps deliberate, "you carry fragments of that same power. The Faceless One gave it to humanity as a test. Can you control what destroys everything it touches?"
+The remaining cultists reformed their flanking position. Mira and Corvin engaged, but their movements slowed—the tall cultist's spiritual pressure had intensified, compressing the air until each step required effort. Kael's lungs labored. The pressure sat on his chest.
+[Soul Harvest Available: You detect the spiritual signature of the Archon's corpse. Flesh still warm. Quality: High.]
+Kael's eyes locked onto his target. The tall cultist smiled, spreading his arms wide.
+"Come then, Reaver. Take what you need. Prove yourself worthy of the burden—or fail as all the others did."
+Kael surged forward, closing the distance in a heartbeat. His free hand found the cultist's chest, pressing against robes damp with sweat and blood. The Soul Reaver awakened, and for a single suspended moment, he tasted the man's memories like copper on his tongue.
+The taste of worship. The sensation of a mind expanding beyond human limits. The creeping certainty that humanity was only fodder for something greater. Images flashed, disjointed and violent: a cathedral of bone, a voice speaking from the dark, the ecstasy of surrender.
+[Soul Harvest: You extracted 847 units of spiritual essence. Memory Fragment acquired: Faceless One's Catechism (Partial).]
+The cultist's eyes widened. "You—you can —"
+Kael drove his blade upward through the man's chin, severing the brain stem. The body collapsed, and the remaining cultists faltered as their leader crumpled.
+"Run," Mira said, her voice strained. "We'll handle cleanup."
+But the three remaining cultists didn't run. They drew small ceramic vials from their robes and hurled them to the floor. The vials shattered, releasing clouds of acrid smoke that clawed at Kael's eyes and throat. His eyes streamed. He coughed, the chemical taste coating his tongue. Within seconds, the room dissolved into choking haze.
+When the smoke cleared, two bodies lay motionless—Corvin had been faster—but the third cultist had escaped through a window. Glass tinkled on the cobblestones below. The tall cultist's corpse remained, but something felt wrong. The body was cooling too rapidly, spiritual energy bleeding away faster than natural decay could explain. The skin had already gone grey, waxy.
+"The conduit," Kael breathed. "They planned this."
+Mira knelt beside the Archon's body, her war-hammer resting against her shoulder. Blood dripped from the hammer's head onto the floorboards. "Planned what exactly?"
+Kael examined the map still spread across the table. Blood had pooled across one corner, but the pins remained visible. He traced connections between them with a fingertip. Three points formed a triangle around the eastern district's primary seal nexus. Another three circled what appeared to be a ley-line convergence point near the old cathedral. The pattern tightened in his mind.
+"They're not just mapping," Kael said. "They're identifying structural vulnerabilities. This isn't a raid—it's a campaign."
+The speaking stone crackled. Corvin's voice came through, distant and strained: "Got a live one. Wounded, can't run far. Says he's willing to talk if we don't turn him over to the Order."
+Kael and Mira exchanged glances. The Shadow Court's information network had flagged this district as a potential cultist staging area, but the Order of Dawn had deployed their own team here simultaneously. If they took a cultist prisoner, jurisdictional complications would arise. If they let the Order handle it, they'd lose access to whatever intelligence the cultist possessed.
+"Coordinates," Kael said. "We'll handle this ourselves."
+The warehouse district's alleyways twisted between buildings like entrails, dark and narrow even by Thornwick's grim standards. Kael found Corvin at the indicated location—a dead end where rotting crates provided cover. The cultist lay propped against the wall, clutching his side where a dagger had opened flesh. His robes bore the same insignia-less design as the others, but his face was younger than expected. Barely past twenty.
+"The Order would kill me," the cultist said, his voice tight with pain. "The Church of Eternal Night offers mercy. That's more than the righteous ever provide."
+Kael crouched, meeting the young man's gaze. The stench of wound-rot and unwashed flesh rose from him. "I'm not with the Order."
+The cultist's laugh dissolved into a wet cough. Blood flecked his lips. "The Soul Reaver. I know who you are. Everyone in the Shadow Court knows." He spat blood onto the cobblestones. "They want you dead. Did you know that? Not the cult—not just the Faceless One's faithful. The Court itself has placed a bounty on your head."
+"Interesting." Kael placed a hand on the cultist's shoulder. The Soul Reaver stirred, hungry for whatever remained. The young man flinched. "Tell me about the war. The real one. What are the cults planning?"
+The cultist's eyes darted toward the shadows, then back to Kael's face. His breath came in short, shallow gasps. "The Faceless One isn't trying to destroy the seal network. That's what the Orders believe, but it's not the truth. The Entities want to reshape reality, yes—but the seal network is already failing. Has been for decades. The rifts aren't breaking through—they're being opened from the inside."
+"By whom?"
+"By the Six Orders themselves." The cultist smiled, teeth stained red. "Each faction maintains a hidden hand, a contingency protocol for when the seals finally collapse. They call it the Succession Rite. When the Veil tears, only those who've prepared will survive. Everyone else becomes fuel."
+Mira stepped forward, her war-hammer raised. "You're lying."
+"Am I? Ask yourself why the Orders have spent centuries suppressing knowledge of the Soul Reaver. Ask why the first Reaver sealed himself away than share his power. The truth is too dangerous—it would unite humanity against the very institutions meant to protect them."
+Kael's grip tightened on the cultist's shoulder. The Soul Reaver hummed in his chest, sensing the fading spiritual signature. The man's pulse fluttered beneath his fingertips, weak and erratic. A few minutes remained before the body cooled past viability.
+"The Faceless One," Kael said. "What does it want?"
+"I don't know. None of us know. The Archons speak of a grand design, but they keep the specifics locked away. What I do know is that your power—the Soul Reaver—frightens them more than any seal-breaker. You can extract what they hide. You can find truth in the dead."
+[Soul Harvest Available: Target spiritual signature fading. Estimated a few heartbeats before harvest quality degrades.]
+Kael looked into the cultist's eyes one final time. "Any last requests?"
+"Remember what I said. The Orders aren't your enemies—but they're not your allies either. When the Succession Rite begins, everyone will have to choose sides. Even Reavers."
+The young man's head lolled. Kael pressed his palm flat against the cooling chest, feeling the Soul Reaver activate through sheer proximity. Spiritual energy flooded his senses—faint, degraded by time and the cultist's declining state, but present. The dying ember of a life. It tasted of ash and regret.
+[Soul Harvest: You extracted 234 units of spiritual essence. Memory Fragment acquired: Shadow Court's Internal Politics (Fragmentary).]
+The body went slack. Corvin moved to check the alley's entrances while Mira studied the map Kael had taken from the warehouse.
+"This changes things," she said. "If the cultists are targeting structural vulnerabilities, we need to warn the seal-keepers. The Order of Dawn's enforcers are dead—their intelligence dies with them unless we act."
+Kael folded the map carefully, tucking it into his coat. The parchment crackled under his fingers. "The Order won't listen to me. They'd assume I'm working with the cults."
+"Then we work around them." Mira's jaw set. "The Veiled Market has contacts among the seal-keepers' support staff. For enough soul-essence, we could arrange an anonymous warning."
+"Or," Corvin interrupted, "we use this." He held up a small brass cylinder—one of the ceramic vials the cultists had thrown. The liquid inside swirled with iridescent patterns that hurt to look at directly. Kael's eyes watered. "Concentrated spiritual essence, refined from something nasty. This isn't street-grade merchandise. Someone with serious resources made this."
+Kael took the cylinder, feeling its weight. The brass was warm, thrumming against his palm. The Soul Reaver resonated with the substance, recognizing something familiar in its composition. A fragment of Entity-touched essence, harvested and refined. Worth a fortune in the underground economy.
+"Enough to fund our next move," Kael said. "But this also proves the cults have industrial refining capabilities. They're not a scattered cell—they're an organization with infrastructure."
+The fog thickened as they moved through the warehouse district toward the main thoroughfare. Steam vents hissed from the street-level grates, filling the air with moisture that clung to skin and clothing. The vapor beaded on Kael's face, cold and greasy. Somewhere in the distance, a factory whistle screamed the changing of shifts. The sound clawed through the fog, mournful and harsh.
+Kael's mind worked through the evening's events. The tall Archon's words echoed: the original Soul Reaver had sealed himself away than face what he had become. The cultists feared the Soul Reaver's ability to extract truth. The Shadow Court wanted him dead. The Orders maintained hidden protocols for the seal network's eventual collapse.
+Too many pieces, not enough context. His head throbbed.
+"We need information," Kael said as they emerged onto the main street. "The cultists were operating from this district, but they're not based here. Somewhere upstream, someone coordinates their activities."
+Mira nodded. "The Shadow Court has safe houses throughout Thornwick. If they're monitoring you, they might have files. Locations. Names."
+"You want to break into Shadow Court territory?"
+"I want to find answers. The Court knows more than they're telling anyone. If the cults are planning something large-scale, the Court's intelligence networks would have detected it." She paused. "The question is whether they'd share that information with us."
+Corvin laughed quietly. "Share? The Court's more likely to share a knife."
+"Which brings us back to the Soul Reaver." Kael touched the blade at his hip, feeling the familiar thrum of harvested potential coiled within. The hilt pulsed, warm and alive. "The Reaver extracts what others hide. That makes me dangerous to anyone with secrets."
+They walked in silence through Thornwick's fog-choked streets, past coal-smoke chimney stacks and steam-rail crossings. The city's heartbeat continued around them—commerce and crime, faith and corruption, the endless cycle of power seeking more power. A drunk stumbled past, reeking of gin. A lamplighter made his rounds, the flame catching with a hiss and a flare of gas.
+Three blocks from the warehouse district, Kael stopped. His skin prickled with a sensation he'd learned to trust: being watched. The hair on his forearms stood.
+"We're not alone," he murmured.
+The shadows between two brick buildings shifted. Not the natural movement of fog, but deliberate displacement. A figure stepped forward, robed in grey that seemed to drink the light around it. The darkness clung to the fabric like a living thing.
+"Kael Ashborn." The voice was female, low, and carried the precise diction of someone accustomed to giving orders. "The Soul Reaver. We've been expecting you."
+Mira's war-hammer rose. Corvin's daggers materialized in his hands, steel glinting. Kael watched, noting the spiritual pressure radiating from the figure—moderate, controlled, deliberately restrained.
+"Who's 'we'?" he asked.
+The woman pushed back her hood, revealing a face marked by ritual scarring—a pattern of intersecting lines that Kael recognized from his limited exposure to Order hierarchies. The Star of Convergence, symbolizing the unified purpose of all six factions. The scars were raised, pale against her dark skin.
+"The Six Orders," she said. "Specifically, a council that operates beyond the Council of Six. We're called the Watchers. We monitor threats that the public factions cannot acknowledge."
+"Monitoring threats like me?"
+"Monitoring threats to you, Mr. Ashborn. You're a powerful asset, but you're also a liability. The Soul Reaver's existence destabilizes the balance we've maintained for centuries. Most of our members want you eliminated."
+Kael's hand drifted toward his blade. His knuckles brushed the hilt. "And the rest?"
+The woman's lips curved in something too sharp to be a smile. "The rest believe knowledge is power. You've been asking questions about the seal network, about the cults, about the original Soul Reaver. We're prepared to provide answers—on one condition."
+"Name it."
+"Work with us. Not for us—we're not foolish enough to think we can control a Soul Reaver. But alongside us. The Faceless One's cult has grown beyond our projections. They possess resources, intelligence, and something else—something that frightens even the Entities."
+"What?"
+"We don't know. That's why we need you." The woman reached into her robe and withdrew a sealed envelope, offering it to Kael. The paper was heavy, wax-sealed. "Inside you'll find coordinates to a cultist facility. It's a proving ground—where they train their Archons. If the answers exist anywhere, they'll be there."
+Kael took the envelope, feeling the weight of possibility within. The parchment was thick, expensive. The Watchers, the Shadow Court, the cultists themselves—all circling, all seeking to use or eliminate him. The game had grown more complex than simple survival.
+"Why should I trust you?"
+"You shouldn't. But the alternative is stumbling blind into an enemy you don't understand." The woman stepped backward, dissolving into the fog. Her outline blurred, consumed by the grey. "The coordinates expire at dawn. What you do with that information is your choice."
+Her footsteps faded. The alley stood empty save for Kael, Mira, and Corvin—their breath misting in the cooling air. The silence pressed in.
+"So," Corvin said finally. "Do we take the bait?"
+Kael broke the seal and unfolded the parchment within. Coordinates, a location outside Thornwick's city limits, and a date. Tomorrow night.
+"The cultists are planning something," he said. "The Orders know more than they're saying. And somewhere in the middle, we have to survive long enough to find the truth."
+Mira studied the coordinates. "This could be a trap. The Watchers admitting they need you—it reeks of manipulation."
+"Everything reeks of manipulation. That's how power works." Kael tucked the envelope away. "But traps can be sprung on the trapper. If the cultists are gathering at this location, it's an opportunity. We go, we gather intelligence, we extract what we can."
+"And if it's exactly what they want—a chance to eliminate the Soul Reaver?"
+Kael's hand found the Soul Reaver's hilt. The blade hummed, eager for contact with whatever awaited. The vibration crawled up his arm, settling in his chest. "Then we'll find out if all those souls I've harvested left me something useful."
+They moved through Thornwick's fog-shrouded streets toward their temporary safehouse, the city's industrial heartbeat thundering around them. Steam pipes groaned beneath the street. Coal smoke hung low, a permanent bruise against the sky. Somewhere in the darkness, eyes watched—cultists, Shadow Court agents, Order enforcers, and now the mysterious Watchers. Everyone wanted something from the Soul Reaver. Everyone had secrets to protect.
+Kael intended to find them all.
+The fog swallowed their footsteps as they disappeared between buildings, but the weight of the envelope pressed against his chest like a promise. Tomorrow, the proving ground. Tomorrow, answers or death.
+Tonight, he would rest—and dream of blades drinking deep.
