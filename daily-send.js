@@ -60,7 +60,7 @@ async function main() {
     
     // 发送
     try {
-      await mailer.sendChapters(member.email, member.name, [chFile], 'daily');
+      await mailer.sendChapters(member.email, member.fullName, [chFile], 'daily');
       database.updateLastDailySent(member.id, nextCh);
       sent++;
     } catch (e) {

@@ -88,4 +88,4 @@ async function getMembers() {
   return members;
 }
 
-module.exports = { getCampaignId, getMembers };
+module.exports = { getCampaignId, getMembers, getActiveMembers: getMembers };

@@ -101,11 +101,22 @@ function getLastDelivery(memberId) {
   return row?.last_ch || 0;
 }
 
+function updateLastBatchSent(patreonId, chapterNum) {
+  updateMember(patreonId, { last_batch_sent: chapterNum });
+  recordDelivery(patreonId, chapterNum, 'batch');
+}
+
+function updateLastDailySent(patreonId, chapterNum) {
+  updateMember(patreonId, { last_daily_sent: chapterNum });
+  recordDelivery(patreonId, chapterNum, 'daily');
+}
+
 function close() {
   if (db) { db.close(); db = null; }
 }
 
 module.exports = {
   getDb, addMember, getActiveMembers, getMember, getMemberByEmail,
-  updateMember, recordDelivery, wasChapterSent, getLastDelivery, close
+  updateMember, recordDelivery, wasChapterSent, getLastDelivery,
+  updateLastBatchSent, updateLastDailySent, close
 };

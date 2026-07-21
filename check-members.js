@@ -26,7 +26,13 @@ async function main() {
     const known = database.getMember(member.id);
     if (!known) {
       newMembers.push(member);
-      database.addMember(member.id, member.email, member.tier, member.name);
+      database.addMember({
+        patreonId: member.id,
+        email: member.email,
+        fullName: member.fullName,
+        tier: member.tier,
+        tierCents: member.tierCents,
+      });
     }
   }
   console.log(`New members: ${newMembers.length}`);
@@ -52,7 +58,7 @@ async function main() {
   // 发送邮件
   for (const member of newMembers) {
     try {
-      await mailer.sendChapters(member.email, member.name, chapterFiles, 'batch');
+      await mailer.sendChapters(member.email, member.fullName, chapterFiles, 'batch');
       database.updateLastBatchSent(member.id, batch[batch.length - 1]);
       console.log(`  Sent batch to ${member.email}`);
     } catch (e) {
