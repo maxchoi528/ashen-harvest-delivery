@@ -1,0 +1,60 @@
+name: Ashen Harvest — Daily Chapter Delivery
+
+on:
+  schedule:
+    # 每6小时检查新会员 (UTC: 00:00, 06:00, 12:00, 18:00)
+    - cron: '0 0,6,12,18 * * *'
+    # 每天10:00 UTC 推送下一章
+    - cron: '0 10 * * *'
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  check-members:
+    if: github.event.schedule == '0 0,6,12,18 * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        working-directory: patreon-delivery-ah
+        run: npm install
+
+      - name: Check for new patrons and send welcome batches
+        working-directory: patreon-delivery-ah
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
+          PATREON_CLIENT_ID: ${{ secrets.PATREON_CLIENT_ID }}
+          PATREON_CLIENT_SECRET: ${{ secrets.PATREON_CLIENT_SECRET }}
+          PATREON_ACCESS_TOKEN: ${{ secrets.PATREON_ACCESS_TOKEN }}
+          PATREON_REFRESH_TOKEN: ${{ secrets.PATREON_REFRESH_TOKEN }}
+        run: node check-members.js
+
+  daily-send:
+    if: github.event.schedule == '0 10 * * *' || github.event_name == 'workflow_dispatch'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Install dependencies
+        working-directory: patreon-delivery-ah
+        run: npm install
+
+      - name: Send daily chapter to all patrons
+        working-directory: patreon-delivery-ah
+        env:
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
+          PATREON_CLIENT_ID: ${{ secrets.PATREON_CLIENT_ID }}
+          PATREON_CLIENT_SECRET: ${{ secrets.PATREON_CLIENT_SECRET }}
+          PATREON_ACCESS_TOKEN: ${{ secrets.PATREON_ACCESS_TOKEN }}
+          PATREON_REFRESH_TOKEN: ${{ secrets.PATREON_REFRESH_TOKEN }}
+        run: node daily-send.js

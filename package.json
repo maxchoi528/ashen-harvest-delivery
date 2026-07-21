@@ -1,0 +1,13 @@
+{
+  "name": "Ashen Harvest — Daily Chapter Delivery",
+  "description": "Auto-deliver early access chapters to Patreon patrons via email + check for new patrons",
+  "version": "1.0.0",
+  "main": "daily-send.js",
+  "scripts": {
+    "check-members": "node check-members.js",
+    "daily-send": "node daily-send.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.0"
+  }
+}
