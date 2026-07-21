@@ -32,7 +32,7 @@ const BOOKS = {
     totalChapters: 500,
     publicDate: '2026-07-22',
     aheadCount: 25,
-    tierIds: [],
+    tierIds: ['29151333', '29151338'],
     novelId: '42191fb1-f279-4bec-8a88-6ea5f8bd87ae',
   },
 };
