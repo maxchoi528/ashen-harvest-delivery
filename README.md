@@ -1,72 +1,26 @@
-# Ashen Harvest — Patreon 邮件推送系统
+# Novel Delivery System
 
-## 架构
+Automated chapter delivery for Patreon patrons via email.
 
-```
-patreon-delivery-ah/
-├── config.js          # 配置 (支持环境变量 + 本地)
-├── patreon-api.js     # Patreon API v2 客户端
-├── database.js        # SQLite 会员/交付记录
-├── chapters.js        # 章节管理 + TXT 生成
-├── mailer.js          # Gmail SMTP 发送
-├── check-members.js   # 每6小时: 检查新会员 → 发欢迎包
-├── daily-send.js      # 每天10:00: 给会员发下一章
-├── package.json
-└── patreon.db         # SQLite (运行时生成)
-```
+## Books
 
-## 工作流程
+| Book | Royal Road | Chapters | Public | Ahead |
+|------|-----------|----------|--------|------|
+| The Sevenfold Bleed | [167631](https://www.royalroad.com/fiction/167631) | 200 | 125 | 25 |
+| Ashen Harvest | Pending | 500 | 0 | 25 |
 
-1. **新会员加入 Patreon** → 6小时内检测到 → 自动发送25章欢迎包到邮箱
-2. **每天10:00 UTC** → 给所有活跃会员发送下一章
-3. 章节以 TXT 附件形式发送
+## How it works
 
-## 章节进度计算
+- **check-members.js** — Runs every 6 hours. Detects new patrons, sends batch of 25 early chapters per book.
+- **daily-send.js** — Runs daily at 10:00 UTC. Sends one new chapter per book to each patron.
 
-- 公开章节 = 从发布日起每天1章
-- 会员提前25章
-- 例: 公开到Ch10时，会员收到Ch11~Ch35的欢迎包，之后每天+1
+## Patreon Tiers
 
-## GitHub Secrets 设置
+| Tier | Price | Book |
+|------|-------|------|
+| Sevenfold Bleed — Scarred | $10 | The Sevenfold Bleed |
+| Sevenfold Bleed — Bleeder | $25 | The Sevenfold Bleed |
+| Ashen Harvest — Harvester | $10 | Ashen Harvest |
+| Ashen Harvest — Ashborn | $25 | Ashen Harvest |
 
-在 GitHub 仓库 Settings → Secrets and variables → Actions 中添加:
-
-| Secret Name | Value |
-|-------------|-------|
-| GMAIL_USER | cui.yujun0528@gmail.com |
-| GMAIL_PASS | lbqvjnwdcwgptxdt |
-| PATREON_CLIENT_ID | xWYLxPyFy4DXjL7NymEbCtLkF0Ubb9sIYrhKMM-VoH8rdvrYzdpkMsIMyA0EGxjf |
-| PATREON_CLIENT_SECRET | I_7sJ8FmKYD6k8PKjOh_AEC9det6kaFs-6EMNfR-LwSj_HgHlxha21clAiXcGmH4 |
-| PATREON_ACCESS_TOKEN | 5aS7CLIoS-w9I49_LHWTuA29TPYLsp21B1KwC4FsyCo |
-| PATREON_REFRESH_TOKEN | avoQZre4VKHjNZhd8dW772uGCqHxvwTa7X1LT0pmAmM |
-
-## 本地运行
-
-```bash
-cd F:\novel-writer-web\patreon-delivery-ah
-npm install
-
-# 手动测试
-node check-members.js    # 检查新会员
-node daily-send.js       # 发送今日章节
-```
-
-## GitHub Actions
-
-文件: `.github/workflows/ashen-harvest-daily.yml`
-
-- 每6小时: `check-members.js` (检测新会员)
-- 每天10:00 UTC: `daily-send.js` (推送下一章)
-- 支持手动触发 (workflow_dispatch)
-
-## Patreon Tier 配置
-
-复用 Maxchoi 页面现有 Tier:
-- **Scarred** ($10/月): 提前25章
-- **Bleeder** ($25/月): 提前50章
-
-## 依赖
-
-- Node.js 22+
-- nodemailer (邮件发送)
-- node:sqlite (内置，无需安装)
+Both tiers ($10 and $25) deliver the same 25 chapters ahead. The $25 tier exists for readers who want to support more.

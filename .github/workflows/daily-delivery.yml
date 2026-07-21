@@ -1,4 +1,4 @@
-name: Ashen Harvest — Daily Chapter Delivery
+name: Novel Delivery — Daily
 
 on:
   schedule:
@@ -15,16 +15,12 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install dependencies
-        run: npm install
+      - run: npm install
       - name: Check for new patrons
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
-          PATREON_CLIENT_ID: ${{ secrets.PATREON_CLIENT_ID }}
-          PATREON_CLIENT_SECRET: ${{ secrets.PATREON_CLIENT_SECRET }}
           PATREON_ACCESS_TOKEN: ${{ secrets.PATREON_ACCESS_TOKEN }}
-          PATREON_REFRESH_TOKEN: ${{ secrets.PATREON_REFRESH_TOKEN }}
         run: node check-members.js
 
   daily-send:
@@ -35,14 +31,10 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
-      - name: Install dependencies
-        run: npm install
-      - name: Send daily chapter
+      - run: npm install
+      - name: Send daily chapters
         env:
           GMAIL_USER: ${{ secrets.GMAIL_USER }}
           GMAIL_PASS: ${{ secrets.GMAIL_PASS }}
-          PATREON_CLIENT_ID: ${{ secrets.PATREON_CLIENT_ID }}
-          PATREON_CLIENT_SECRET: ${{ secrets.PATREON_CLIENT_SECRET }}
           PATREON_ACCESS_TOKEN: ${{ secrets.PATREON_ACCESS_TOKEN }}
-          PATREON_REFRESH_TOKEN: ${{ secrets.PATREON_REFRESH_TOKEN }}
         run: node daily-send.js
